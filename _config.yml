@@ -1,2 +1,6 @@
 name: naokits blog
 pygments: true
+
+markdown: redcarpet
+redcarpet:
+  extensions: [tables,autolink,strikethrough]
