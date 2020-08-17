@@ -147,6 +147,7 @@
   - IBM Bluemix
   - Hroku
 - 開発環境やツール
+  - vim（NeoVim含む）
   - Xcode
   - AppCode
   - Atom Editor
