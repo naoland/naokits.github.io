@@ -157,8 +157,9 @@
 
 - Wantedly
   - https://www.wantedly.com/users/43417
-- LinkedIn
-  - https://www.linkedin.com/in/naokits
+- LinkedIn（ログインしないと見れないかもしれません）
+  - https://www.linkedin.com/in/naokits/
+  - https://www.linkedin.com/in/naokits2/
 - Qiita
   - https://qiita.com/naokits
 - GitHub
