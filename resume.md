@@ -155,7 +155,7 @@
 
 ## その他
 
-次のサイトもご覧ください（LinkedInはログインが必要です）。
+以下のサイトもご覧ください。
 
 - Wantedly
   - https://www.wantedly.com/users/43417
