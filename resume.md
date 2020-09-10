@@ -1,6 +1,6 @@
 # 略歴
 
-2020年8月更新
+2020年9月更新
 
 ## 基本情報
 
@@ -120,6 +120,7 @@
   - Python
   - TypeScript
   - JavaScript
+  - Angular
   - Go
   - Rust
 - DB
@@ -131,11 +132,13 @@
   - Linux（Ubuntu、Amazon Linux）
   - FreeBSD
 - リポジトリ、進捗管理
-    - Github
-	- GitLab
+  - Github
+  - GitLab
 - コミュニケーション
   - Slack
   - Skype
+  - zoom
+  - google meet
 - CI関連
   - Circleci
   - fastlane
@@ -145,7 +148,7 @@
   - Google Cloud Platform（主にFireBase）
   - Parse
   - IBM Bluemix
-  - Hroku
+  - Heroku
 - 開発環境やツール
   - vim（NeoVim含む）
   - Xcode
